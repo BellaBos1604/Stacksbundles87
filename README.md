@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Stacksbundles87/Stacksbundles87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BellaBos1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
